@@ -1,6 +1,6 @@
 /* General Reset */
 body {
-  font-family: 'Micro 5', sans-serif;
+  font-family: 'Arial', sans-serif;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -29,6 +29,7 @@ body {
   display: flex;
   align-items: center;
   gap: 10px;
+  font-family: 'Micro 5';
 }
 
 .logo img {
@@ -63,6 +64,7 @@ body {
 }
 
 .oval {
+  font-family: 'Micro 5';
   background: radial-gradient(circle, #f19edc, #d732a8);
   border-radius: 50%;
   width: 500px;
@@ -128,6 +130,7 @@ body {
 .card h2 {
   font-size: 1.3rem;
   margin-bottom: 10px;
+  font-family: 'Micro 5';
 }
 
 .card p {
